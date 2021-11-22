@@ -1,9 +1,10 @@
 import 'package:bloc_weather/data/models/trivia.dart';
 import 'package:bloc_weather/data/models/trivia_response.dart';
-import 'package:bloc_weather/presentation/pages/widgets/home_loader.dart';
 import 'package:bloc_weather/logic/bloc/get_trivia_bloc.dart';
+import 'package:bloc_weather/presentation/pages/home/widgets/home_exception.dart';
 import 'package:flutter/material.dart';
-import 'widgets/home_exception.dart';
+
+import 'widgets/home_loader.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key key}) : super(key: key);
