@@ -8,10 +8,6 @@
 
 # Flutter Trivia Question Application with Bloc and RxDart
 
--------
-
-## Configuration for this application
-
 API : https://opentdb.com/
 
 You've done entire steps correctly and I make sure that this project will have paramount effect on your progress learning `Flutter`
